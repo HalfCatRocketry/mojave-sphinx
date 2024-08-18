@@ -8,6 +8,7 @@ Mojave Sphinx is a high-power amateur rocket with a liquid bipropellant propulsi
 - HalfCatSim v1.3.8 motor simulation (.xlsx)
 - Sample thrust curve file (.eng)
 - OpenRocket simulation file (.ork)
+
 Please note that the SolidWorks CAD was created in the version 2022 student edition and is for educational purposes.
 
 Half Cat Rocketry is not liable for the usage of this content, and the authors bear no responsibility for the usage of its content. Read the following disclaimer before continuing.
